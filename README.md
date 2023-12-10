@@ -2,7 +2,7 @@
 
 Porject: Predictions of Erythema
 
-This project focuses on makeing predictions of erythema. More specifically, a machine-learning pipeline for predicting erythema is built based on a dermatology dataset from Kaggle.[1]
+This project focuses on makeing predictions of erythema. More specifically, a machine-learning pipeline for predicting erythema is built based on a dermatology dataset from Kaggle.
 
 
 The python version and package used is in the environment.yml/ file.
